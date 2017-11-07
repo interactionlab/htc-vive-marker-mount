@@ -1,5 +1,5 @@
 # htc-vive-marker-mount
-Requires additional the following material additionally:
+Requires additionally the following material:
 * 19x DIN 933 M2 10mm Screws with Nuts
 * 5x DIN 562 M4
 * 5x DIN 965 M4 Various Lengths for multiple VIVE HMD Tracking (min. 40 mm)
